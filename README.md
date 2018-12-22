@@ -1,4 +1,6 @@
 # learnGit
+[![MIT](https://img.shields.io/github/license/yiyungent/learnGit.svg)](https://mit-license.org/)
+
 学习Git，GitHub 练习项目
 
 add a line and a empty line on branch master
