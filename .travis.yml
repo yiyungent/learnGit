@@ -1,0 +1,6 @@
+language: csharp
+solution: learnGit.sln
+mono: none
+dotnet: 2.2.101
+script:
+ - dotnet restore
