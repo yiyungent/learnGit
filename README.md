@@ -1,5 +1,5 @@
 # learnGit
-[![MIT](https://img.shields.io/github/license/yiyungent/learnGit.svg)](https://mit-license.org/)
+[![MIT](https://img.shields.io/github/license/yiyungent/learnGit.svg)](https://mit-license.org/)[![](https://travis-ci.org/yiyungent/learnGit.svg?branch=master)](https://travis-ci.org/yiyungent/learnGit)
 
 学习Git，GitHub 练习项目
 
