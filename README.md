@@ -1,5 +1,5 @@
 # learnGit
-[![MIT](https://img.shields.io/github/license/yiyungent/learnGit.svg)](https://mit-license.org/) [![Build Status](https://travis-ci.com/yiyungent/learnGit.svg?branch=master)](https://travis-ci.com/yiyungent/learnGit) [![CircleCI](https://circleci.com/gh/yiyungent/learnGit.svg?style=svg)](https://circleci.com/gh/yiyungent/learnGit) [![Build Status](https://dev.azure.com/yiyungent/yiyungent/_apis/build/status/yiyungent.learnGit?branchName=master)](https://dev.azure.com/yiyungent/yiyungent/_build/latest?definitionId=1?branchName=master)
+[![MIT](https://img.shields.io/github/license/yiyungent/learnGit.svg)](https://mit-license.org/) [![Build Status](https://travis-ci.com/yiyungent/learnGit.svg?branch=master)](https://travis-ci.com/yiyungent/learnGit) [![CircleCI](https://circleci.com/gh/yiyungent/learnGit.svg?style=svg)](https://circleci.com/gh/yiyungent/learnGit) [![Build Status](https://dev.azure.com/yiyungent/yiyungent/_apis/build/status/yiyungent.learnGit?branchName=master)](https://dev.azure.com/yiyungent/yiyungent/_build/latest?definitionId=1?branchName=master) [![Join the chat at https://gitter.im/learnGiter/community](https://badges.gitter.im/learnGiter/community.svg)](https://gitter.im/learnGiter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # 学习Git，GitHub 练习项目
 
